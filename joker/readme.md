@@ -7,5 +7,7 @@ KBDFans 5&deg; case.
 
 ## Usage
 
-Clone this repository, then upload the JSON files into QMK Configurator, make
-any changes you want, then compile them and flash your board with QMK Toolkit.
+Upload the layout.json file into [QMK Configurator][conf], then hit compile and download
+the firmware and flash it to your board.
+
+[conf]: https://config.qmk.fm/

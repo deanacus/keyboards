@@ -8,5 +8,7 @@ the ascii file rather than in QMK configurator or keyboard layout editor.
 
 ## Usage
 
-Upload the layout.json file into QMK Configurator, then hit compile and download
+Upload the layout.json file into [QMK Configurator][conf], then hit compile and download
 the firmware and flash it to your board.
+
+[conf]: https://config.qmk.fm/
