@@ -4,6 +4,10 @@ The source JSON files for the keymappings for my keyboards
 
 ### Joker (DZ60)
 
+![](https://raw.githubusercontent.com/deanacus/keyboards/master/images/joker-top.jpg)
+
+![](https://raw.githubusercontent.com/deanacus/keyboards/master/images/joker-front.jpg)
+
 Super basic 60% board. Only has 2 layers: Standard QWERTY layer, plus a single
 FN layer.
 
