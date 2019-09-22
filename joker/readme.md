@@ -11,7 +11,7 @@ Specs:
 | Component | Details                            |
 |-----------|------------------------------------|
 | PCB       | DZ60                               |
-| Switches  | Cheery MX Blue                     |
+| Switches  | Cherry MX Blue                     |
 | Case      | KBDFans 5&deg; Spacegrey Aluminium |
 | Keycaps   | Knock-off DSA Dolch                |
 
