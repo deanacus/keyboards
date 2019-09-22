@@ -1,11 +1,19 @@
 # Joker
 
-My 60% (current) daily driver. A DZ60, with Cherry MX Blues in an aluminium
-KBDFans 5&deg; case, and cheap DSA Dolch knockoff caps.
+My 60% (current) daily driver. Bought from and assembled by [KBDFans][kbdfans].
 
 ![](https://raw.githubusercontent.com/deanacus/keyboards/master/images/joker-top.jpg)
 
 ![](https://raw.githubusercontent.com/deanacus/keyboards/master/images/joker-front.jpg)
+
+Specs:
+
+| Component | Details                            |
+|-----------|------------------------------------|
+| PCB       | DZ60                               |
+| Switches  | Cheery MX Blue                     |
+| Case      | KBDFans 5&deg; Spacegrey Aluminium |
+| Keycaps   | Knock-off DSA Dolch                |
 
 ## Layouts
 
@@ -49,3 +57,4 @@ Upload the layout.json file into [QMK Configurator][conf], then hit compile and 
 the firmware and flash it to your board.
 
 [conf]: https://config.qmk.fm/
+[kbdfans]: https://kbdfans.com/
