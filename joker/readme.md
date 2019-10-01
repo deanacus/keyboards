@@ -2,9 +2,9 @@
 
 My 60% (current) daily driver. Bought from and assembled by [KBDFans][kbdfans].
 
-![](https://raw.githubusercontent.com/deanacus/keyboards/master/joker/images/joker-top.jpg)
+![](https://raw.githubusercontent.com/deanacus/keyboards/blob/master/joker/images/joker-top.jpg)
 
-![](https://raw.githubusercontent.com/deanacus/keyboards/master/joker/images/joker-front.jpg)
+![](https://raw.githubusercontent.com/deanacus/keyboards/blob/master/joker/images/joker-front.jpg)
 
 Specs:
 
