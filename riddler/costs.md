@@ -11,8 +11,8 @@
 | TRRS Cable     | 2   | 3.24  | 0.00     | 3.24  | 1.62            | [AliExpress][TRRSCable] |
 | Diodes         | 100 | 5.95  | 0.00     | 5.95  | 0.06            | [Jaycar][Diodes]        |
 
-Total cost so far: $90.53
-Cost per complete board: 36.21
+Total cost so far: $90.53  
+Cost per complete board: 36.21  
 Cost per half: 18.10
 
 
