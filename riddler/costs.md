@@ -37,17 +37,6 @@ Cost per half:           $18.10
 Total Cost:              $45.00  
 Cost per complete board: $21.60
 
-### Tools
-
-| Item              | Qty | Cost  | PPC   | Link                       |
-|-------------------|-----|-------|-------|----------------------------|
-| Soldering Station | 1   | 59.95 | 59.95 | [Jaycar][SolderingStation] |
-| Solder            | 1   | 15.95 | 15.95 | [Jaycar][Solder]           |
-| Third Hand        | 1   | 9.95  | 9.95  | [Jaycar][ThirdHand]        |
-| Desoldering Pump  | 1   | 11.95 | 11.95 | [Jaycar][Pump]             |
-
-Total Tooling Costs $97.80
-
 
 [PCB]: https://github.com/climbalima/let-s-Split-v2
 [Case]: https://git.40percent.club/di0ib/Misc/src/branch/master/split%20plates
