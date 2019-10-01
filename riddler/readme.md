@@ -9,7 +9,7 @@ the ascii file rather than in QMK configurator or keyboard layout editor.
 Specs:
 
 | Component | Details                            |
-|-----------|------------------------------------|
+|:----------|:-----------------------------------|
 | PCB       | Let's Split                        |
 | Switches  | TBD                                |
 | Case      | TBD                                |
