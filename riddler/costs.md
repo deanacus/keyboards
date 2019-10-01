@@ -23,6 +23,13 @@ Cost per half: 18.10
 | M3 Standoffs | 32/40 |      |      |
 | M3 Screws    | 64/80 |      |      |
 
+## Not considered
+
+Soldering Iron
+Solder
+Third hand
+Desoldering pump
+
 
 [PCB]: https://github.com/climbalima/let-s-Split-v2
 [Case]: https://git.40percent.club/di0ib/Misc/src/branch/master/split%20plates
