@@ -8,12 +8,12 @@ My 60% (current) daily driver. Bought from and assembled by [KBDFans][kbdfans].
 
 Specs:
 
-| Component | Details                            |
-|-----------|------------------------------------|
-| PCB       | DZ60                               |
-| Switches  | Cherry MX Blue                     |
-| Case      | KBDFans 5&deg; Spacegrey Aluminium |
-| Keycaps   | Knock-off DSA Dolch                |
+| Component | Details                            | Link                 |
+|-----------|------------------------------------|----------------------|
+| PCB       | DZ60                               | [PCB][pcb]           |
+| Switches  | Cherry MX Blue                     | [Switches][switches] |
+| Case      | KBDFans 5&deg; Spacegrey Aluminium | [Case][case]         |
+| Keycaps   | Knock-off DSA Dolch                | [Keycaps][caps]      |
 
 ## Layouts
 
@@ -58,3 +58,7 @@ the firmware and flash it to your board.
 
 [conf]: https://config.qmk.fm/
 [kbdfans]: https://kbdfans.com/
+[pcb]: https://kbdfans.com/products/dz60-60-pcb
+[switches]: https://kbdfans.com/products/cherry-mx-swtich
+[case]: https://kbdfans.com/collections/60-layout-case/products/pre-orderkbdfans-5-60-case
+[caps]: https://www.aliexpress.com/item/32813738267.html
