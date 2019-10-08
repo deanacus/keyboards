@@ -4,15 +4,6 @@ The costs in this document signify enough components to build at least 2 complet
 boards, as this was a project shared with a colleague, and orders were combined
 to minimise costs where possible.
 
-## To purchase
-
-| Component    | Qty   | Cost | Link |
-|--------------|-------|------|------|
-| M3 Standoffs | 32/40 |      |      |
-| M3 Screws    | 64/80 |      |      |
-
-## Purchased
-
 ### Shared Costs
 
 | Component      | Qty | Cost  | Shipping | Total | PPC   | Link                    |
@@ -23,10 +14,12 @@ to minimise costs where possible.
 | TRRS Connector | 10  | 1.42  | 1.86     | 3.28  | 0.33  | [AliExpress][TRRS]      |
 | TRRS Cable     | 2   | 3.24  | 0.00     | 3.24  | 1.62  | [AliExpress][TRRSCable] |
 | Diodes         | 100 | 5.95  | 0.00     | 5.95  | 0.06  | [Jaycar][Diodes]        |
+| M2 Standoffs   | 50  | 2.19  | 0.00     | 2.19  | 0.04  | [AliExpress][Standoffs] |
+| M2 Screws      | 100 | 4.49  | 0.00     | 4.49  | 0.04  | [AliExpress][Screws]    |
 
-Total cost so far:       $90.53  
-Cost per complete board: $36.21  
-Cost per half:           $18.10
+Total cost so far:       $97.21  
+Cost per complete board: $38.88  
+Cost per half:           $19.44
 
 ### Personal Components
 
@@ -48,3 +41,5 @@ Cost per complete board: $21.60
 [Solder]: https://www.jaycar.com.au/0-71mm-duratech-solder-200gm/p/NS3005
 [ThirdHand]: https://www.jaycar.com.au/third-hand-pcb-holder-tool-with-2-clips-and-heavy-base/p/TH1982
 [Pump]: https://www.jaycar.com.au/plastic-desolder-tool/p/TH1860
+[Standoffs]: https://www.aliexpress.com/item/32996308968.html?spm=a2g0s.9042311.0.0.54d24c4dSi82rd
+[Screws]: https://www.aliexpress.com/item/33009219896.html?spm=a2g0s.9042311.0.0.54d24c4dSi82rd
