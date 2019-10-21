@@ -11,15 +11,15 @@ to minimise costs where possible.
 | PCB            | 5   | 10.36 | 0.00     | 10.36 | 4.10  | [Github][PCB]           |
 | Case           | 5   | 23.39 | 5.85     | 29.24 | 11.70 | [40Percent.club][Case]  |
 | Pro Micro      | 6   | 34.07 | 4.39     | 38.46 | 6.41  | [AliExpress][ProMicro]  |
-| TRRS Connector | 10  | 1.42  | 1.86     | 3.28  | 0.33  | [AliExpress][TRRS]      |
+| TRRS Connector | 5   | 7.24  | 0.00     | 7.24  | 1.45  | [AliExpress][TRRS]      |
 | TRRS Cable     | 2   | 3.24  | 0.00     | 3.24  | 1.62  | [AliExpress][TRRSCable] |
 | Diodes         | 100 | 5.95  | 0.00     | 5.95  | 0.06  | [Jaycar][Diodes]        |
 | M2 Standoffs   | 50  | 2.19  | 0.00     | 2.19  | 0.04  | [AliExpress][Standoffs] |
 | M2 Screws      | 100 | 4.49  | 0.00     | 4.49  | 0.04  | [AliExpress][Screws]    |
 
-Total cost so far:       $97.21  
-Cost per complete board: $38.88  
-Cost per half:           $19.44
+Total cost so far:       $101.17  
+Cost per complete board: $40.47  
+
 
 ### Personal Components
 
