@@ -10,7 +10,7 @@ Specs:
 
 | Component | Details                            |
 |:----------|:-----------------------------------|
-| PCB       | [Let's Split][PBC]                 |
+| PCB       | [Let's Split][PCB]                 |
 | Switches  | Kailh Box                          |
 | Case      | [PCB Case][case]                   |
 
