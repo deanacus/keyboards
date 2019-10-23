@@ -1,7 +1,7 @@
 {
     "keyboard": "lets_split/rev2",
     "keymap": "riddler",
-    "layout": "LAYOUT",
+    "layout": "LAYOUT_ALT",
     "layers": [
         [
             "KC_ESC",

@@ -10,10 +10,19 @@ Specs:
 
 | Component | Details                            |
 |:----------|:-----------------------------------|
-| PCB       | Let's Split                        |
-| Switches  | TBD                                |
-| Case      | TBD                                |
-| Keycaps   | TBD                                |
+| PCB       | [Let's Split][PBC]                 |
+| Switches  | Kailh Box                          |
+| Case      | [PCB Case][case]                   |
+
+## Layouts
+
+* [Initial Layout Design][layout]
+* [Alt Layout Design][alt]
+
+## Costs
+
+This was a board built from sourced components. You can see a
+cost breakdown in the [costs][costs] file
 
 ## Usage
 
@@ -21,3 +30,8 @@ Upload the layout.json file into [QMK Configurator][conf], then hit compile and 
 the firmware and flash it to your board.
 
 [conf]: https://config.qmk.fm/
+[PCB]: https://github.com/climbalima/let-s-Split-v2
+[Case]: https://git.40percent.club/di0ib/Misc/src/branch/master/split%20plates
+[layout]: https://github.com/deanacus/keyboards/tree/master/riddler/layout.md
+[alt]: https://github.com/deanacus/keyboards/tree/master/riddler/layout_alt.md
+[alt]: https://github.com/deanacus/keyboards/tree/master/riddler/costs.md
